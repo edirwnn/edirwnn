@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hello, I’m Edirwnn!
 
-<!--
-**edirwnn/edirwnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Digital Creator | Web Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I develop websites, explore new technologies, and run a digital product business called **Edirwnn Store**.
+
+## 🛠️ Skills
+- 🌐 HTML & CSS
+- 💻 Website development
+- 🛍️ Digital product business
+- 📚 Constantly learning new technologies
+
+## 🎯 My Goal
+To build websites that are engaging, useful, and user-friendly.
+
+## 📌 My Projects
+- 🛒 **Edirwnn Store** — a digital product shop
+- 🌐 Personal website
+- 💡 Web development learning projects
+
+## 🤝 Get in Touch
+- GitHub: [@edirwnn](https://github.com/edirwnn)
+
+---
+
+⭐ Thanks for visiting my profile!
