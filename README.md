@@ -1,120 +1,115 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0014,35:4B0082,70:8A2BE2,100:BC13FE&height=240&section=header&text=EDIRWNN&fontSize=76&fontColor=FFFFFF&fontAlignY=42&stroke=BC13FE&strokeWidth=1&animation=fadeIn" width="100%" alt="Edirwnn Premium Purple Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05010D,25:16002B,55:5B21B6,80:00D9FF,100:05010D&height=250&section=header&text=EDIRWNN&fontSize=78&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=WEB%20DEVELOPER%20%7C%20DIGITAL%20CREATOR&descSize=17&descColor=67E8F9&descAlignY=58" alt="Edirwnn Midnight Neon Header"/>
 
-### DIGITAL CREATOR · WEB DEVELOPER
-
-*Turning ideas into meaningful digital experiences.*
+<a href="https://github.com/edirwnn">
+<img src="https://img.shields.io/badge/GITHUB-EDIRWNN-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
+</a>
+<a href="https://github.com/edirwnn?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-PROJECTS-5B21B6?style=for-the-badge&logo=codefactor&logoColor=white" alt="Explore Projects"/>
+</a>
 
 <br/>
 
-<a href="https://github.com/edirwnn">
-<img src="https://img.shields.io/badge/GITHUB-EDIRWNN-BC13FE?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://github.com/edirwnn?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-PROJECTS-6F00FF?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=67E8F9&center=true&vCenter=true&width=600&lines=Building+Modern+Digital+Experiences;Creating+Websites+That+Make+an+Impact;Learning.+Building.+Improving." alt="Animated introduction"/>
 
 </div>
 
 ---
 
-## ◈ 01 / ABOUT ME
+## `01` — ABOUT ME
 
-Hi, I'm **Edirwnn** — a web developer and digital creator passionate about building modern websites and meaningful digital products.
+I'm **Edirwnn**, a web developer and digital creator passionate about building modern websites and useful digital products.
 
-I enjoy transforming ideas into practical solutions through clean design, thoughtful user experiences, and continuous improvement.
-
-- ◆ Developing modern and responsive websites
-- ◆ Exploring UI/UX design and web technologies
-- ◆ Building **Edirwnn Store**, my digital commerce project
-- ◆ Continuously learning and creating new digital experiences
+- ⚡ Developing responsive and user-friendly websites
+- 🎨 Exploring modern UI/UX and visual design
+- 💎 Building **Edirwnn Store**
+- 🚀 Turning ideas into practical digital experiences
 
 ---
 
-## ◈ 02 / TECHNOLOGY STACK
+## `02` — TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="Technology Stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="HTML CSS JavaScript Git GitHub and VS Code"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-8A2BE2?style=flat-square" alt="Web Development"/>
-<img src="https://img.shields.io/badge/RESPONSIVE_DESIGN-BC13FE?style=flat-square" alt="Responsive Design"/>
-<img src="https://img.shields.io/badge/DIGITAL_PRODUCTS-6F00FF?style=flat-square" alt="Digital Products"/>
+<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-00D9FF?style=flat-square&logo=googlechrome&logoColor=black" alt="Web Development"/>
+<img src="https://img.shields.io/badge/CREATIVE_DESIGN-8B5CF6?style=flat-square&logo=figma&logoColor=white" alt="Creative Design"/>
+<img src="https://img.shields.io/badge/DIGITAL_PRODUCTS-111827?style=flat-square&logo=shopify&logoColor=00D9FF" alt="Digital Products"/>
 
 </div>
 
 ---
 
-## ◈ 03 / FEATURED PROJECT
+## `03` — FEATURED PROJECT
 
-### 💜 Edirwnn Store
+### ◈ Edirwnn Store
 
-**A digital commerce project focused on simplicity and usability.**
+**My digital commerce project.**
 
-Edirwnn Store is my project for building a modern online destination for digital products, with an emphasis on clean presentation, intuitive navigation, and a user-friendly shopping experience.
+Building a modern storefront for digital products with a focus on clean design, responsive layouts, and a simple shopping experience.
 
-**Project vision**
-- ▸ A clean and responsive storefront
-- ▸ Clear and engaging product presentation
-- ▸ Simple and intuitive navigation
-- ▸ Continuous improvements in functionality and design
+- ▸ Modern storefront concept
+- ▸ Responsive website design
+- ▸ Clear product presentation
+- ▸ Continuous development and improvement
 
 <div align="center">
 
 <a href="https://github.com/edirwnn?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-BC13FE?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Projects"/>
+<img src="https://img.shields.io/badge/VIEW_MY_PROJECTS-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="View My Projects"/>
 </a>
 
 </div>
 
 ---
 
-## ◈ 04 / GITHUB ANALYTICS
+## `04` — GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=edirwnn&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D0618&title_color=BC13FE&icon_color=BC13FE&text_color=E6DDF5" height="180" alt="GitHub Statistics"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=edirwnn&show_icons=true&hide_border=true&rank_icon=github&bg_color=05010D&title_color=00D9FF&icon_color=8B5CF6&text_color=E5E7EB" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edirwnn&layout=compact&hide_border=true&langs_count=6&bg_color=0D0618&title_color=BC13FE&text_color=E6DDF5" height="180" alt="Most Used Languages"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edirwnn&layout=compact&hide_border=true&langs_count=6&bg_color=05010D&title_color=00D9FF&text_color=E5E7EB" alt="Most Used Languages"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=edirwnn&hide_border=true&background=0D0618&ring=BC13FE&fire=FF4DFF&currStreakLabel=BC13FE&sideLabels=E6DDF5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9B8BAE" height="180" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=edirwnn&hide_border=true&background=05010D&ring=00D9FF&fire=8B5CF6&currStreakLabel=00D9FF&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-## ◈ 05 / CURRENT FOCUS
+## `05` — CURRENT FOCUS
 
 ```text
-FOCUS       → Web Development
-PROJECT     → Edirwnn Store
-DESIGN      → Modern UI/UX
-OBJECTIVE   → Build Useful Digital Products
-MINDSET     → Learn. Create. Improve.
+FOCUS       : Web Development
+PROJECT     : Edirwnn Store
+DESIGN      : Modern UI / UX
+MISSION     : Build Useful Digital Products
+PHILOSOPHY  : Learn. Create. Improve.
 ```
 
 ---
 
-## ◈ 06 / LET'S CONNECT
+## `06` — CONNECT
 
 <div align="center">
 
 <a href="https://github.com/edirwnn">
-<img src="https://img.shields.io/badge/LET'S_CONNECT-BC13FE?style=for-the-badge&logo=github&logoColor=white" alt="Let's Connect"/>
+<img src="https://img.shields.io/badge/LET'S_CONNECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Let's Connect"/>
 </a>
 
 <br/><br/>
 
-*Thanks for visiting my profile.*
+**Thanks for visiting my profile.**
 
-*Always learning. Always building. Always improving.*
+<sub>Always learning. Always building. Always improving.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BC13FE,50:6F00FF,100:0B0014&height=120&section=footer" width="100%" alt="Purple Neon Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05010D,30:5B21B6,70:00D9FF,100:05010D&height=130&section=footer" alt="Midnight Neon Footer"/>
 
 </div>
